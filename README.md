@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/82112471/190289781-f36fb8c4-a98a-4792-9eb3-4b45d7adb1a4.png)
+![image](https://user-images.githubusercontent.com/82112471/209208440-0d2eddef-dec1-41f6-a79a-09ae9edbbb7b.png)
 
 # ps-walkingstyles
 Project Sloth Walking Styles

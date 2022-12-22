@@ -12,4 +12,4 @@ A script allows players to set and save their preferred walk style, which will p
 * Ensure ps-walkingstyles
 
 # Showcase
-* Showcasing Video found [here](https://www.youtube.com/channel/UCl1ALVOw3u1BoZBZIVO_4zw)
+![image](https://user-images.githubusercontent.com/82112471/209202519-2885c0ff-845c-44ec-a13a-372af35cfc6d.png)
